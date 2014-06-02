@@ -1,3 +1,4 @@
 deploy:
  provider: heroku
  api_key: 13075a3b2d05e144631598afe4e5fe968ee74e63
+ app: bijo
