@@ -1,7 +1,0 @@
-deploy:
-  provider: heroku
-  api_key:
-    secure: Yc/q06TRuoW9qWbKwSDu0VFXj1eJMdpA4S3BQKNgIa6ptg0IGd+Cili5DOTpX1fUiR9UB0xs8/Vhx3q7ct9mBDxOHu4qolgMmz5fPR70MprKHWxDSBmVSYd6EYvO9/AwJqUoPflc1BpwbaZtvnvIQ2xIMS4r8XUuxbnWO+sL0Rc=
-  app: Bijo
-  on:
-    repo: windhorn/Bijo
